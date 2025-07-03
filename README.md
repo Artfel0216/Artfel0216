@@ -41,3 +41,7 @@ I'm always looking for growth, continuous learning and challenges that allow me 
 # Activities
 
 ![Artfel0216 GitHub stats](https://github-readme-stats.vercel.app/api?username=Artfel0216&show_icons=true&theme=radical)
+
+# Programming Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artfel0216&size_weight=0.5&count_weight=0.5)
